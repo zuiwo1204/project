@@ -1,0 +1,343 @@
+1566633506113	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\86181\\AppData\\Local\\Temp\\rust_mozprofile.QiYTnNfGfZsG"
+1566633506671	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566633506671	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566633506672	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566633506672	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566633510317	Marionette	INFO	Listening on port 61523
+1566633510436	Marionette	WARN	TLS certificate errors will be ignored for this session
+1566633525159	Marionette	INFO	Stopped listening on port 61523
+[Child 18316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C[Child 19924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1566633529698	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\86181\\AppData\\Local\\Temp\\rust_mozprofile.N6200C93n5Xq"
+1566633530292	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566633530292	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566633530293	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566633530293	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566633532971	Marionette	INFO	Listening on port 61596
+1566633533015	Marionette	WARN	TLS certificate errors will be ignored for this session
+1566633552748	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+send@http://www.5itest.cn/static-dist/libs/vendor.js?8.0.16:7:14661
+ajax@http://www.5itest.cn/static-dist/libs/vendor.js?8.0.16:7:11361
+e08e353dfaa39855b303/<@http://www.5itest.cn/static-dist/libs/jquery-validation.js?8.0.16:1:10833
+check@http://www.5itest.cn/static-dist/libs/jquery-validation.js?8.0.16:1:22714
+checkForm@http://www.5itest.cn/static-dist/libs/jquery-validation.js?8.0.16:1:18743
+form@http://www.5itest.cn/static-dist/libs/jquery-validation.js?8.0.16:1:18443
+validate/<@http://www.5itest.cn/static-dist/libs/jquery-validation.js?8.0.16:1:12987
+dispatch@http://www.5itest.cn/static-dist/libs/vendor.js?8.0.16:6:9534
+add/v.handle@http://www.5itest.cn/static-dist/libs/vendor.js?8.0.16:6:6236
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:202:14
+webdriverClickElement@chrome://marionette/content/interaction.js:183:11
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561548844810%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+1566633558517	Marionette	INFO	Stopped listening on port 61596
+[Child 2756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_Jwavian.cc, lSine 341c
+ript error: http://www.5itest.cn/static-dist/libs/vendor.js?8.0.16, line 7: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+[Child 8572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch[Parent 9828, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1566633562756	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\86181\\AppData\\Local\\Temp\\rust_mozprofile.SZjt9gcLXT0G"
+1566633563317	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566633563317	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566633563318	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566633563318	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566633566193	Marionette	INFO	Listening on port 61680
+1566633566579	Marionette	WARN	TLS certificate errors will be ignored for this session
+1566633579659	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+send@http://www.5itest.cn/static-dist/libs/vendor.js?8.0.16:7:14661
+ajax@http://www.5itest.cn/static-dist/libs/vendor.js?8.0.16:7:11361
+e08e353dfaa39855b303/<@http://www.5itest.cn/static-dist/libs/jquery-validation.js?8.0.16:1:10833
+check@http://www.5itest.cn/static-dist/libs/jquery-validation.js?8.0.16:1:22714
+checkForm@http://www.5itest.cn/static-dist/libs/jquery-validation.js?8.0.16:1:18743
+form@http://www.5itest.cn/static-dist/libs/jquery-validation.js?8.0.16:1:18443
+validate/<@http://www.5itest.cn/static-dist/libs/jquery-validation.js?8.0.16:1:12987
+dispatch@http://www.5itest.cn/static-dist/libs/vendor.js?8.0.16:6:9534
+add/v.handle@http://www.5itest.cn/static-dist/libs/vendor.js?8.0.16:6:6236
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:202:14
+webdriverClickElement@chrome://marionette/content/interaction.js:183:11
+1566633585124	Marionette	INFO	Stopped listening on port 61680
+[Child 13372, Chrome_ChildThread] WARNING: pipe errJor: 109: file z:/task_15657049a2v1aScript error: http://www.5itest./cbuild/src/ipc/chromium/snr/c/chrome/common/ipc_channel_win.cc, line 341s
+tatic-dist/libs/vendor.js?8.0.16, line 7: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+[Child 15912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1566633589631	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\86181\\AppData\\Local\\Temp\\rust_mozprofile.xDrVDdKlRRaA"
+1566633590338	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566633590338	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566633590338	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566633590339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566633593483	Marionette	INFO	Listening on port 61754
+1566633593950	Marionette	WARN	TLS certificate errors will be ignored for this session
+1566633599003	Marionette	INFO	Stopped listening on port 61754
+[Parent 7588, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 7588, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C[Parent 7588, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1566633603534	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\86181\\AppData\\Local\\Temp\\rust_mozprofile.knOdMEpo5XLT"
+1566633604273	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566633604273	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566633604273	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566633604273	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566633607404	Marionette	INFO	Listening on port 61807
+1566633607859	Marionette	WARN	TLS certificate errors will be ignored for this session
+1566633620860	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+send@http://www.5itest.cn/static-dist/libs/vendor.js?8.0.16:7:14661
+ajax@http://www.5itest.cn/static-dist/libs/vendor.js?8.0.16:7:11361
+e08e353dfaa39855b303/<@http://www.5itest.cn/static-dist/libs/jquery-validation.js?8.0.16:1:10833
+check@http://www.5itest.cn/static-dist/libs/jquery-validation.js?8.0.16:1:22714
+checkForm@http://www.5itest.cn/static-dist/libs/jquery-validation.js?8.0.16:1:18743
+form@http://www.5itest.cn/static-dist/libs/jquery-validation.js?8.0.16:1:18443
+validate/<@http://www.5itest.cn/static-dist/libs/jquery-validation.js?8.0.16:1:12987
+dispatch@http://www.5itest.cn/static-dist/libs/vendor.js?8.0.16:6:9534
+add/v.handle@http://www.5itest.cn/static-dist/libs/vendor.js?8.0.16:6:6236
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:202:14
+webdriverClickElement@chrome://marionette/content/interaction.js:183:11
+1566633626293	Marionette	INFO	Stopped listening on port 61807
+[Child 20008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/Jbauild/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, livnaeScript error: http://www.5itest.cn/ static-dist/libs/vendor.js?8.0.16,3 lin41
+e 7: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+[Child 20700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch[Parent 17648, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1566633630531	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\86181\\AppData\\Local\\Temp\\rust_mozprofile.OffR3ZgNS0Fe"
+1566633631085	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566633631085	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566633631085	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566633631085	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566633634027	Marionette	INFO	Listening on port 61881
+1566633634350	Marionette	WARN	TLS certificate errors will be ignored for this session
+1566633647864	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+send@http://www.5itest.cn/static-dist/libs/vendor.js?8.0.16:7:14661
+ajax@http://www.5itest.cn/static-dist/libs/vendor.js?8.0.16:7:11361
+e08e353dfaa39855b303/<@http://www.5itest.cn/static-dist/libs/jquery-validation.js?8.0.16:1:10833
+check@http://www.5itest.cn/static-dist/libs/jquery-validation.js?8.0.16:1:22714
+checkForm@http://www.5itest.cn/static-dist/libs/jquery-validation.js?8.0.16:1:18743
+form@http://www.5itest.cn/static-dist/libs/jquery-validation.js?8.0.16:1:18443
+validate/<@http://www.5itest.cn/static-dist/libs/jquery-validation.js?8.0.16:1:12987
+dispatch@http://www.5itest.cn/static-dist/libs/vendor.js?8.0.16:6:9534
+add/v.handle@http://www.5itest.cn/static-dist/libs/vendor.js?8.0.16:6:6236
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:202:14
+webdriverClickElement@chrome://marionette/content/interaction.js:183:11
+1566633653488	Marionette	INFO	Stopped listening on port 61881
+JavaScript error: http://www.5itest.cn/static-dist/libs/vendor.js?8.0.16, line 7: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+[[Parent 15912, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C[GPU 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1566821344395	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\86181\\AppData\\Local\\Temp\\rust_mozprofile.yviwDxrWil6z"
+1566821344954	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566821344954	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566821344954	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566821344955	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566821347050	Marionette	INFO	Listening on port 49409
+1566821347115	Marionette	WARN	TLS certificate errors will be ignored for this session
+1566821359700	Marionette	INFO	Stopped listening on port 49409
+[Parent 8620, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 8620, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16708, Chrome_ChildTh[Chilrd 17832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+ead] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch[Parent 8620, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1566821364643	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\86181\\AppData\\Local\\Temp\\rust_mozprofile.5NLmXfRUr2ZU"
+1566821365511	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566821365512	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566821365512	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566821365512	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566821367525	Marionette	INFO	Listening on port 49490
+1566821367885	Marionette	WARN	TLS certificate errors will be ignored for this session
+1566821368049	Marionette	INFO	Stopped listening on port 49490
+[Parent 3704, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[[Child 21108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C[GPU 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1566821372685	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\86181\\AppData\\Local\\Temp\\rust_mozprofile.iV2kXdPdDRWX"
+1566821373774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566821373774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566821373774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566821373775	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566821376411	Marionette	INFO	Listening on port 49533
+1566821376516	Marionette	WARN	TLS certificate errors will be ignored for this session
+1566821414994	Marionette	INFO	Stopped listening on port 49533
+[Child 17736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[[Child 20792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1566821419826	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\86181\\AppData\\Local\\Temp\\rust_mozprofile.mxf9PzEkOam6"
+1566821420834	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566821420835	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566821420835	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566821420835	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566821423167	Marionette	INFO	Listening on port 49616
+1566821423648	Marionette	WARN	TLS certificate errors will be ignored for this session
+1566821438735	Marionette	INFO	Stopped listening on port 49616
+[Parent 7920, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1566821443610	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\86181\\AppData\\Local\\Temp\\rust_mozprofile.2syX9q6I1CEi"
+1566821444175	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566821444175	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566821444175	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566821444175	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566821445964	Marionette	INFO	Listening on port 49781
+1566821446332	Marionette	WARN	TLS certificate errors will be ignored for this session
+1566821474364	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+send@http://www.5itest.cn/static-dist/libs/vendor.js?8.0.16:7:14661
+ajax@http://www.5itest.cn/static-dist/libs/vendor.js?8.0.16:7:11361
+e08e353dfaa39855b303/<@http://www.5itest.cn/static-dist/libs/jquery-validation.js?8.0.16:1:10833
+check@http://www.5itest.cn/static-dist/libs/jquery-validation.js?8.0.16:1:22714
+checkForm@http://www.5itest.cn/static-dist/libs/jquery-validation.js?8.0.16:1:18743
+form@http://www.5itest.cn/static-dist/libs/jquery-validation.js?8.0.16:1:18443
+validate/<@http://www.5itest.cn/static-dist/libs/jquery-validation.js?8.0.16:1:12987
+dispatch@http://www.5itest.cn/static-dist/libs/vendor.js?8.0.16:6:9534
+add/v.handle@http://www.5itest.cn/static-dist/libs/vendor.js?8.0.16:6:6236
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:202:14
+webdriverClickElement@chrome://marionette/content/interaction.js:183:11
+1566821480198	Marionette	INFO	Stopped listening on port 49781
+JavaScript error: http://www.5itest.cn/static-dist/libs/vendor.js?8.0.16, line 7: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1566821484568	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\86181\\AppData\\Local\\Temp\\rust_mozprofile.fiAfDdZa6sWx"
+1566821485120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566821485120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566821485121	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566821485121	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566821486960	Marionette	INFO	Listening on port 49855
+1566821487292	Marionette	WARN	TLS certificate errors will be ignored for this session
+1566821506002	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+send@http://www.5itest.cn/static-dist/libs/vendor.js?8.0.16:7:14661
+ajax@http://www.5itest.cn/static-dist/libs/vendor.js?8.0.16:7:11361
+e08e353dfaa39855b303/<@http://www.5itest.cn/static-dist/libs/jquery-validation.js?8.0.16:1:10833
+check@http://www.5itest.cn/static-dist/libs/jquery-validation.js?8.0.16:1:22714
+checkForm@http://www.5itest.cn/static-dist/libs/jquery-validation.js?8.0.16:1:18743
+form@http://www.5itest.cn/static-dist/libs/jquery-validation.js?8.0.16:1:18443
+validate/<@http://www.5itest.cn/static-dist/libs/jquery-validation.js?8.0.16:1:12987
+dispatch@http://www.5itest.cn/static-dist/libs/vendor.js?8.0.16:6:9534
+add/v.handle@http://www.5itest.cn/static-dist/libs/vendor.js?8.0.16:6:6236
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:202:14
+webdriverClickElement@chrome://marionette/content/interaction.js:183:11
+1566821511560	Marionette	INFO	Stopped listening on port 49855
+[Parent 10152, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: http://www.5itest.cn/static-dist/libs/vendor.js?8.0.16, line 7: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+[Parent 10152, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child[Parent 10152, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1566821516523	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\86181\\AppData\\Local\\Temp\\rust_mozprofile.QC62dN8JYXrG"
+1566821517083	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566821517083	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566821517083	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566821517083	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566821518908	Marionette	INFO	Listening on port 49925
+1566821519237	Marionette	WARN	TLS certificate errors will be ignored for this session
+1566821524271	Marionette	INFO	Stopped listening on port 49925
+[Child 17952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704[Ch921/build/src/ipc/chromiuim/src/chrome/common/ipc_channel_win.cc, line 341
+l[d 9188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C[Child 544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[[GPU 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1566821528839	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\86181\\AppData\\Local\\Temp\\rust_mozprofile.AIGMnIJOT197"
+1566821529712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566821529712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566821529712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566821529712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566821532316	Marionette	INFO	Listening on port 49992
+1566821532677	Marionette	WARN	TLS certificate errors will be ignored for this session
+1566821546013	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+send@http://www.5itest.cn/static-dist/libs/vendor.js?8.0.16:7:14661
+ajax@http://www.5itest.cn/static-dist/libs/vendor.js?8.0.16:7:11361
+e08e353dfaa39855b303/<@http://www.5itest.cn/static-dist/libs/jquery-validation.js?8.0.16:1:10833
+check@http://www.5itest.cn/static-dist/libs/jquery-validation.js?8.0.16:1:22714
+checkForm@http://www.5itest.cn/static-dist/libs/jquery-validation.js?8.0.16:1:18743
+form@http://www.5itest.cn/static-dist/libs/jquery-validation.js?8.0.16:1:18443
+validate/<@http://www.5itest.cn/static-dist/libs/jquery-validation.js?8.0.16:1:12987
+dispatch@http://www.5itest.cn/static-dist/libs/vendor.js?8.0.16:6:9534
+add/v.handle@http://www.5itest.cn/static-dist/libs/vendor.js?8.0.16:6:6236
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:202:14
+webdriverClickElement@chrome://marionette/content/interaction.js:183:11
+1566821551523	Marionette	INFO	Stopped listening on port 49992
+[Child 3760, Chrome_ChildThread] WARNING: pipe errJor: 109: file z:/task_1565704921/build/src/iavaScript error: http://www.5itest.cn/static-dist/libs/pc/cvendor.js?8.0hromium/src/chrome/common/ipc_channel_win.cc, line 341
+.1[6, line 7: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+[Child 4308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C[Parent 3536, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil[GPU 1
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1566821556658	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\86181\\AppData\\Local\\Temp\\rust_mozprofile.1qNoTILqsuJw"
+1566821557636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566821557636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566821557636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566821557637	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566821560346	Marionette	INFO	Listening on port 50240
+1566821560487	Marionette	WARN	TLS certificate errors will be ignored for this session
+1566821575092	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+send@http://www.5itest.cn/static-dist/libs/vendor.js?8.0.16:7:14661
+ajax@http://www.5itest.cn/static-dist/libs/vendor.js?8.0.16:7:11361
+e08e353dfaa39855b303/<@http://www.5itest.cn/static-dist/libs/jquery-validation.js?8.0.16:1:10833
+check@http://www.5itest.cn/static-dist/libs/jquery-validation.js?8.0.16:1:22714
+checkForm@http://www.5itest.cn/static-dist/libs/jquery-validation.js?8.0.16:1:18743
+form@http://www.5itest.cn/static-dist/libs/jquery-validation.js?8.0.16:1:18443
+validate/<@http://www.5itest.cn/static-dist/libs/jquery-validation.js?8.0.16:1:12987
+dispatch@http://www.5itest.cn/static-dist/libs/vendor.js?8.0.16:6:9534
+add/v.handle@http://www.5itest.cn/static-dist/libs/vendor.js?8.0.16:6:6236
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:202:14
+webdriverClickElement@chrome://marionette/content/interaction.js:183:11
+1566821580701	Marionette	INFO	Stopped listening on port 50240
+[Child 7768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrJoame/common/ipc_channel_win.cc,vaScr line 34i1
+pt error: http://www.5itest.cn/static-dist/libs/vendor.js?8.0.16, line 7: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+[Child 21060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C[Parent 12188, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

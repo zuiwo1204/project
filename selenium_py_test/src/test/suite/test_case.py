@@ -2,9 +2,8 @@
 import unittest
 import HTMLTestRunner
 import time
+from src.test.suite.sent_mail import SendEmail
 #这里需要导入测试文件
-from test_case.test5i_login import Test5iLogin
-from test_case.test5i_register import Test5iRegister
 
 #testunit=unittest.TestSuite()
 
@@ -23,7 +22,7 @@ from test_case.test5i_register import Test5iRegister
 #     testunit.addTest(unittest.makeSuite(test))
 
 #第三种方法 使用discover()方法遍历所有的测试用例
-listaa = 'C:\PycharmProjects\selenium_py_test\/test_case'
+listaa = 'C:\\PycharmProjects\\selenium_py_test\src\\test\\case'
 def creatsuitel():
     testunit=unittest.TestSuite()
     # discover 方法定义
@@ -52,5 +51,11 @@ runner = HTMLTestRunner.HTMLTestRunner(
         title=u'5itest测试报告',
         description=u'用例执行情况：',
         verbosity=2)
+
 # 运行测试用例
 runner.run(alltestnames)
+fp.close()
+
+#发送报告邮件
+path = 'C:\\PycharmProjects\\selenium_py_test\\report'
+SendEmail.sendreport('',path)
